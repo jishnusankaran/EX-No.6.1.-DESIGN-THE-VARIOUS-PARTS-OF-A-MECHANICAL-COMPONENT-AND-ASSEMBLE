@@ -1,6 +1,6 @@
-# EX-No.6.1. DESIGN THE VARIOUS PARTS OF A MECHANICAL COMPONENT AND ASSEMBLE
+## EX-No.6.1. DESIGN THE VARIOUS PARTS OF A MECHANICAL COMPONENT AND ASSEMBLE
 
-## DATE:
+## DATE:14-12-23
 
 ## AIM: 
 To Design the various parts of a mechanical component and assemble it using a bottom-up approach then convert it into the orthographic view
@@ -63,6 +63,21 @@ If the components do not fit properly into the slots, it can be moved into the s
 ![image](https://user-images.githubusercontent.com/113594316/199413636-df0a61ce-964f-490d-9a16-e5986ebbf403.png)
 
 ## OUTPUT:
+
+## LINKAGE 
+![linkage Ex-6 1 Drawing v1_page-0001](https://github.com/jishnusankaran/EX-No.6.1.-DESIGN-THE-VARIOUS-PARTS-OF-A-MECHANICAL-COMPONENT-AND-ASSEMBLE/assets/144979369/d14fb712-0b56-40b9-9001-f3d5c0d03a6d)
+
+## BASE PLATE
+![base plate Ex-6 1 Drawing v1_page-0001](https://github.com/jishnusankaran/EX-No.6.1.-DESIGN-THE-VARIOUS-PARTS-OF-A-MECHANICAL-COMPONENT-AND-ASSEMBLE/assets/144979369/38c67873-9c61-40e9-8f82-cc6c9ccf2a76)
+
+## GEAR LINKAGE
+![gear linkage Ex-6 1 Drawing v1_page-0001](https://github.com/jishnusankaran/EX-No.6.1.-DESIGN-THE-VARIOUS-PARTS-OF-A-MECHANICAL-COMPONENT-AND-ASSEMBLE/assets/144979369/e3f7f67d-ba21-4ab0-8690-d06fb184ecd0)
+
+## FINGER 
+![Ex-6 1 Drawing finger v1_page-0001](https://github.com/jishnusankaran/EX-No.6.1.-DESIGN-THE-VARIOUS-PARTS-OF-A-MECHANICAL-COMPONENT-AND-ASSEMBLE/assets/144979369/32b4b494-333d-4d64-be26-16687c272645)
+
+## ASSEMBLES VIEW
+![Ex-6 1 Drawing v1_page-0001](https://github.com/jishnusankaran/EX-No.6.1.-DESIGN-THE-VARIOUS-PARTS-OF-A-MECHANICAL-COMPONENT-AND-ASSEMBLE/assets/144979369/5ce324d0-ce2d-4125-b457-adc1b22a222f)
 
 ## RESULT:
 Thus, a design of various parts of a mechanical component and assemble it using a bottom-up approach in orthographic view has been done
